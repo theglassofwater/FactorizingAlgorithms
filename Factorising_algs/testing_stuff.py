@@ -1,0 +1,3 @@
+import primefac
+
+primefac.primefac()
