@@ -1,3 +1,3 @@
 # dissertation
 
-Idea was changed, into symbolic music generation
+Couple factorizing algorithms 
